@@ -1,26 +1,30 @@
-% Videoclub «Los Pajaritos»
-% Ricardo Pérez
-% Curso 2021/22
+% Sublime
+% Juan Miguel Valle Fernández
+% Curso 2024/25
 
 # Descripción general del proyecto
 
-Explicar.
+Sublime es una web donde se podrá publicar negocios y gestionar las citas del negocio. Los usuarios podrán reservar las citas en los negocios de una manera rápida y sencilla.
 
 ## Funcionalidad principal de la aplicación
+Como objetivo principal es la  gestión de citas de los negocios. Facilitar a los clientes que encuentren negocios según unas características de búsqueda y la reserva de citas de manera rápida y sencilla. 
 
-Explicar.
 
 ## Objetivos generales
+* Negocios:
+  * Objetivo: "publicar negocios".
+  * Casos de uso: "añadir negocio", "modificar negocio", “eliminar negocio”.
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
+  * Objetivo: "gestionar citas de negocios".
+  * Casos de uso: "creación de citas disponibles", "modificación de citas disponibles", “eliminación de citas disponibles”.
 
-Por ejemplo:
+* Clientes:
+  * Objetivo: "gestión de clientes".
+  * Casos de uso: "añadir clientes", "modificar clientes", “eliminar clientes”.
 
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+  * Objetivo: "reserva de citas de clientes".
+  * Casos de uso: "reserva de cita", "modificación de la cita", “eliminación de cita”.
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+Google Calendar API, Full Calendar, Google Maps Geolocation API, Places API

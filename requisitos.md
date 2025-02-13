@@ -325,6 +325,483 @@
 | **Entrega**     | v1             |
 
 
+| **R37**     | **Creación de la base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la base de datos con las tablas de clientes, negocios, servicios, citas, empleados, horarios (empleados), reseñas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R38**     | **Registro de clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Registro de los clientes en la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R39**     | **Modificación de clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Los clientes podrán hacer modificaciones sobre sus datos personales (nombre, foto, número de teléfono, correo electroníco, etc..).             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Inicio sesión clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Clientes podrán iniciar sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Cerrar sesión clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Clientes podrán cerrar la sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Recuperación de contraseña clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Clientes podrán recuperar su contraseña en caso de ser olvidada. Se recuperará a través de correo electrónico             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Añadir como favorito un negocio**         |
+| --------------: | :------------------- |
+| **Descripción** | Clientes pueden añadir como favorito un negocio             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Eliminar como favorito un negocio**         |
+| --------------: | :------------------- |
+| **Descripción** | Clientes pueden eliminar los negocios asignados como favoritos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Registro de negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Creación de los perfiles para negocios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Modificación negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificación de los datos del negocio, solo lo podrán realizar el dueño             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Eliminar negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los dueños de los negocios podrán eliminar el negocio.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Inicio sesión negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Inicio de sesión de las cuentas de los negocios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Cierre de sesión negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Cierre de sesión de las cuentas de los negocios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Crear servicios**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada negocio podrá crear sus propios servicios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Modificar Servicios**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada negocio podrá modificar sus propios servicios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Eliminar servicios**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada negocio podrá eliminar sus propios servicios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Creación de citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios podrán crear las citas que están disponibles.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Modificación citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios podrán modificar y gestionar las citas             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Eliminar citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios podrán eliminar las citas             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Añadir empleado**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios pueden añadir empleados a su negocio.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Modificar empleado**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un empleado. Los negocios podrán modificar los datos de los empleados.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Eliminar empleado**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios pueden eliminar los empleados.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Crear horarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios pueden crear los horarios para cada empleado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Modificación de horarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios pueden modificar los horarios de cada empleado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Eliminar horario**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios podrán eliminar los horarios de los empleados.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Creación de reseñas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los clientes pueden dejar reseñas de los negocios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R63**     | **Eliminar reseñas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los clientes pueden realizar la eliminación de sus reseñas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Buscar negocios por nombre**         |
+| --------------: | :------------------- |
+| **Descripción** | Se podrá realizar la búsqueda de los negocios por su nombre             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Búsqueda por servicio**         |
+| --------------: | :------------------- |
+| **Descripción** | Búsqueda de negocios según nombre de servicios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R66**     | **Buscar negocios por dirección**         |
+| --------------: | :------------------- |
+| **Descripción** | Búsqueda de negocios según la dirección introducida.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R67**     | **Buscar negocios por citas disponibles**         |
+| --------------: | :------------------- |
+| **Descripción** | Búsqueda de negocios según el tramo horario de la cita este libre.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Ordenación por recomendación**         |
+| --------------: | :------------------- |
+| **Descripción** | Ordenación de los negocios según las reseñas positivas del negocio.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Ordenación de negocios según su proximidad**         |
+| --------------: | :------------------- |
+| **Descripción** | Ordenación de los negocios según la proximidad de la ubicación de los clientes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Seleccionar citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Selección de las citas disponibles mostradas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Reserva de citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Reserva se citas realizada por los clientes             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Eliminación de reserva de citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminación de las citas realizadas por los clientes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R73**     | **Modificación de las reserva de citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificación de las reservas de citas realizadas por los clientes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Ocultación de citas**         |
+| --------------: | :------------------- |
+| **Descripción** | Ocultación de las citas que han sido reservadas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Pagos a través de tarjeta de débito**         |
+| --------------: | :------------------- |
+| **Descripción** | Realizar pago de los servicios con tarjeta de débito.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | **Notificación en correo electrónico.**         |
+| --------------: | :------------------- |
+| **Descripción** | Enviar notificación mediante correo electrónico de la confirmación de la cita.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R77**     | **Añadir cita calendario dispositivo.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir la cita al calendario del dispositivo desde donde se realiza la cita.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R78**     | **Perfil clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | Perfil del cliente, se muestra datos personales.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R79**     | **Perfil de negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | Perfil del negocio, se muestran todos los datos relacionados con el negocio.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R80**     | **Búsqueda de negocios por ubicación**         |
+| --------------: | :------------------- |
+| **Descripción** | Se realiza las recomendaciones de la búsqueda de los negocios según la ubicación de Google Maps             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R81**     | **Creación de valoraciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán dejar valoraciones sobre el negocio (valoración mediante estrellas).             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R82**     | **Alertas de servicios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los negocios recibirán una alerta cuando se reserve una cita en el negocio.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R83**     | **Alertas trabajador servicios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los empleados del negocio recibirán una alerta cuando se reserven una cita con el/ella.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R84**     | **Administrador añadir clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá añadir clientes.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R85**     | **Administrador eliminar clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar clientes.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R86**     | **Administrador modificar clientes**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá modificar los datos personales de los clientes.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R87**     | **Administrador añadir negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá añadir negocios             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R88**     | **Administrador modificar negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá modificar los datos de los negocios.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R89**     | **Administrador eliminar negocios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar los negocios.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -366,3 +843,56 @@
 | (**R34**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R35**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R36**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R37**) Creación de la base de datos | Importante | Información | Fácil | v1 | 
+| (**R38**) Registro de clientes | Importante | Funcional | Fácil | v1 | 
+| (**R39**) Modificación de clientes | Importante | Funcional | Fácil | v1 | 
+| (**R40**) Inicio sesión clientes | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Cerrar sesión clientes | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Recuperación de contraseña clientes | Opcional | Funcional | Difícil | v1 | 
+| (**R43**) Añadir como favorito un negocio | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Eliminar como favorito un negocio | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Registro de negocios | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Modificación negocios | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Eliminar negocios | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Inicio sesión negocios | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Cierre de sesión negocios | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Crear servicios | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Modificar Servicios | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Eliminar servicios | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Creación de citas | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Modificación citas | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Eliminar citas | Importante | Funcional | Fácil | v1 | 
+| (**R56**) Añadir empleado | Importante | Funcional | Fácil | v1 | 
+| (**R57**) Modificar empleado | Importante | Funcional | Fácil | v1 | 
+| (**R58**) Eliminar empleado | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Crear horarios | Importante | Funcional | Fácil | v1 | 
+| (**R60**) Modificación de horarios | Importante | Funcional | Fácil | v1 | 
+| (**R61**) Eliminar horario | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Creación de reseñas | Importante | Funcional | Fácil | v2 | 
+| (**R63**) Eliminar reseñas | Importante | Funcional | Fácil | v2 | 
+| (**R64**) Buscar negocios por nombre | Importante | Funcional | Fácil | v2 | 
+| (**R65**) Búsqueda por servicio | Importante | Funcional | Fácil | v2 | 
+| (**R66**) Buscar negocios por dirección | Importante | Funcional | Media | v2 | 
+| (**R67**) Buscar negocios por citas disponibles | Importante | Funcional | Fácil | v2 | 
+| (**R68**) Ordenación por recomendación | Importante | Funcional | Fácil | v2 | 
+| (**R69**) Ordenación de negocios según su proximidad | Importante | Funcional | Fácil | v2 | 
+| (**R70**) Seleccionar citas | Importante | Funcional | Fácil | v2 | 
+| (**R71**) Reserva de citas | Importante | Funcional | Fácil | v2 | 
+| (**R72**) Eliminación de reserva de citas | Importante | Funcional | Fácil | v2 | 
+| (**R73**) Modificación de las reserva de citas | Importante | Funcional | Fácil | v2 | 
+| (**R74**) Ocultación de citas | Importante | Funcional | Fácil | v2 | 
+| (**R75**) Pagos a través de tarjeta de débito | Importante | Funcional | Media | v2 | 
+| (**R76**) Notificación en correo electrónico. | Importante | Funcional | Media | v3 | 
+| (**R77**) Añadir cita calendario dispositivo. | Importante | Funcional | Fácil | v3 | 
+| (**R78**) Perfil clientes | Importante | Funcional | Media | v3 | 
+| (**R79**) Perfil de negocios | Importante | Funcional | Media | v3 | 
+| (**R80**) Búsqueda de negocios por ubicación | Opcional | Funcional | Media | v3 | 
+| (**R81**) Creación de valoraciones | Opcional | Funcional | Fácil | v3 | 
+| (**R82**) Alertas de servicios | Opcional | Funcional | Fácil | v3 | 
+| (**R83**) Alertas trabajador servicios | Opcional | Funcional | Fácil | v3 | 
+| (**R84**) Administrador añadir clientes | Opcional | Funcional | Fácil | v3 | 
+| (**R85**) Administrador eliminar clientes | Opcional | Funcional | Fácil | v3 | 
+| (**R86**) Administrador modificar clientes | Opcional | Funcional | Fácil | v3 | 
+| (**R87**) Administrador añadir negocios | Opcional | Funcional | Fácil | v3 | 
+| (**R88**) Administrador modificar negocios | Opcional | Funcional | Fácil | v3 | 
+| (**R89**) Administrador eliminar negocios | Opcional | Funcional | Fácil | v3 | 
